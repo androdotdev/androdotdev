@@ -38,9 +38,9 @@ A passionate **software developer** dedicated to open-source projects and contin
 
 ---
 
-## 🏆 Boot.dev Profile
+## 🏆 LeetCode Profile
 
-![Boot.dev](https://api.boot.dev/v1/users/public/2a1a3392-2d3d-4439-be66-cbb7e5c9a4a8/thumbnail)
+![LeetCode Stats](https://leetcode.card.workers.dev/androkingdom?theme=dark&font=&extension=null)
 
 ---
 
