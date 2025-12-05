@@ -40,7 +40,7 @@ A passionate **software developer** dedicated to open-source projects and contin
 
 ## 🏆 LeetCode Profile
 
-![LeetCode Stats](https://leetcode.card.workers.dev/androkingdom?theme=dark&font=&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/androdotdev?theme=dark&font=&extension=null)
 
 ---
 
