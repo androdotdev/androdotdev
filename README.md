@@ -33,7 +33,7 @@ Backend engineering roles, 2026. Focused on systems that are well-reasoned, not 
 
 ### Projects
 
-**JSONFlow** · [npm](https://www.npmjs.com/package/@andro.dev/jsonflow-engine) · [demo](https://json-flow-client.vercel.app/)
+**JSONFlow** · [npm](https://www.npmjs.com/package/@andro.dev/jsonflow-engine) · [demo](https://jsonflow.rishabhmadhwal.qzz.io/)
 Graph-based JSON transformation pipeline. Data flows through dependency graphs and transformation nodes — built around topological execution ordering.
 
 **androincli** · [PyPI](https://pypi.org/project/androincli/)
