@@ -1,8 +1,7 @@
 <div align="center">
 
 # Rishabh Madhwal
-
-**Backend Engineer in Progress** · Ghaziabad, IN
+**Full-Stack Engineer** · Building systems that work, not just run · Ghaziabad, IN
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-madhwal-577946323)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/androdotdev)
@@ -13,19 +12,23 @@
 
 ---
 
-### What I'm building toward
+### What I do
 
-Backend engineering roles, 2026. Focused on systems that are well-reasoned, not just working — architecture, tradeoffs, and the internals that matter.
+I build full-stack systems — backends, APIs, AI integrations, and the tooling around them. The kind of work where architecture decisions matter and "it works on my machine" isn't good enough.
+
+Open to **backend engineering roles** and **freelance projects** for founders and small teams who need real systems built, not just prototypes.
 
 ---
 
 ### Stack
 
-**Languages** — Python · JavaScript · C++
+**Languages** — TypeScript · JavaScript · Python · C++
 
-**Backend** — Node.js · Redis · MySQL · Neo4j · Prisma
+**Backend** — Node.js · Express · MongoDB · MySQL · Redis · Neo4j · Prisma
 
-**Frontend** — Next.js · React · Redux
+**Frontend** — React · Next.js · Redux
+
+**AI / Tooling** — Gemini API · LLM orchestration · CLI agents
 
 **Infra** — Vercel · Git · Linux
 
@@ -33,20 +36,15 @@ Backend engineering roles, 2026. Focused on systems that are well-reasoned, not 
 
 ### Projects
 
-**JSONFlow** · [npm](https://www.npmjs.com/package/@andro.dev/jsonflow-engine) · [demo](https://jsonflow.rishabhmadhwal.qzz.io/)
-Graph-based JSON transformation pipeline. Data flows through dependency graphs and transformation nodes — built around topological execution ordering.
+**JSONFlow** · [npm](https://www.npmjs.com/package/@andro.dev/jsonflow-engine) · [demo](https://jsonflow.rishabhmadhwal.qzz.io/) · [repo](https://github.com/androdotdev/json-flow)
 
-**androincli** · [PyPI](https://pypi.org/project/androincli/)
-Terminal AI agent for orchestrating development workflows via structured reasoning loops. Focus: tool orchestration, agent planning, CLI interfaces.
+Renderer-agnostic JSON diagram compiler. A class-based engine parses and validates JSON schema via Zod, outputs graph data that any renderer can consume — currently Cytoscape, swappable by design. The engine (`@andro.dev/jsonflow-engine`) is published as a standalone npm package.
 
----
+**androincli** · [PyPI](https://pypi.org/project/androincli/) · [repo](https://github.com/androdotdev/cli-agent)
 
-### DSA
+AI-powered CLI agent built on the Gemini API with a Textual TUI. Handles file ops, shell commands, and terminal chat. Built to explore tool orchestration and agent planning loops — not polished, but real.
 
-Structured practice on the GFG 360 track.
-First-principles reasoning over volume grinding — understand the pattern, not just the solution.
-
-![LeetCode Stats](https://leetcode.card.workers.dev/androdotdev?theme=dark&font=&extension=null)
+**Carder** · [live](https://carderfoi.vercel.app)
 
 ---
 
